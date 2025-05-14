@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/Test4App.csproj": {}
+  },
+  "projects": {
+    "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/wwwcore.csproj": {
+      "version": "3.2.3",
+      "restore": {
+        "projectUniqueName": "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/wwwcore.csproj",
+        "projectName": "Alga.wwwcore",
+        "projectPath": "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/wwwcore.csproj",
+        "packagesPath": "/Users/airatgalimov/.nuget/packages/",
+        "outputPath": "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/airatgalimov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Net.Http.Headers": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NUglify": {
+              "target": "Package",
+              "version": "[1.21.15, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/Test4App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/Test4App.csproj",
+        "projectName": "Test4App",
+        "projectPath": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/Test4App.csproj",
+        "packagesPath": "/Users/airatgalimov/.nuget/packages/",
+        "outputPath": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/airatgalimov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/wwwcore.csproj": {
+                "projectPath": "/Users/airatgalimov/Documents/Airat/Projects/Alga/Alga.wwwcore/wwwcore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

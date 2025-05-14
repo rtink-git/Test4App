@@ -1,0 +1,16 @@
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Test4App.exe
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/appsettings.Development.json
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/appsettings.json
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Test4App.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Test4App.deps.json
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Test4App.runtimeconfig.json
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Test4App.pdb
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.Caching.Memory.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.Options.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/Microsoft.Extensions.Primitives.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/NUglify.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/wwwcore.dll
+/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/bin/Release/net9.0/win-x64/publish/wwwcore.pdb

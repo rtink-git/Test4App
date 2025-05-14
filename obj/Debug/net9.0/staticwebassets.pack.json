@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Debug/net9.0/scopedcss/projectbundle/Test4App.bundle.scp.css",
+      "PackagePath": "staticwebassets/Test4App.ae6yzj045w.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/index.debug.html",
+      "PackagePath": "staticwebassets/UISs/i/index.debug.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/index.html",
+      "PackagePath": "staticwebassets/UISs/i/index.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/scheme.json",
+      "PackagePath": "staticwebassets/UISs/i/scheme.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/script.js",
+      "PackagePath": "staticwebassets/UISs/i/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/script.min.js",
+      "PackagePath": "staticwebassets/UISs/i/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/style.css",
+      "PackagePath": "staticwebassets/UISs/i/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/style.min.css",
+      "PackagePath": "staticwebassets/UISs/i/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/app.js",
+      "PackagePath": "staticwebassets/app.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js",
+      "PackagePath": "staticwebassets/serviceworker.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Test4App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Test4App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Test4App.props",
+      "PackagePath": "build\\Test4App.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Test4App.props",
+      "PackagePath": "buildMultiTargeting\\Test4App.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Test4App.props",
+      "PackagePath": "buildTransitive\\Test4App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
