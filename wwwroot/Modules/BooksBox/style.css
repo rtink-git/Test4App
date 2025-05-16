@@ -1,0 +1,63 @@
+.BooksBox {
+    display: flex; 
+    flex-direction: column; 
+    width: calc(100% - 100px);
+    margin-inline: 30px;
+    padding: 20px;
+    max-width: 600px;
+    background: #fff;
+    border-radius: 16px;
+    font-family: Nunito;
+    font-size: 16px;
+    margin-top: 60px;
+}
+
+.BooksBox > h1 {
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.BooksBox > p { 
+    margin-bottom: 30px; 
+    margin-right: 10px;
+    font-size: 15px;
+    color:rgb(29, 29, 32);
+    letter-spacing: 0.3px;
+    margin-left: 30px;
+}
+
+.BooksBox > ul > a { 
+    display: flex;
+    flex-direction: column; 
+    width: 100%;
+}
+
+.BooksBox > ul > li > a {
+    display: flex; 
+    flex-direction: column; 
+    width: calc(100% - 50px);
+    margin: 5px;
+    padding: 20px;
+    background: rgb(245, 245, 245);
+    border-radius: 10px;
+} 
+
+.BooksBox > ul > li > a > h1 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color:black
+}
+
+.BooksBox > ul > li > a > p > span {
+    margin-right: 10px;
+    font-size: 14px;
+    color:rgb(88, 88, 91);
+    letter-spacing: 0.3px;
+}
+
+.BooksBox > ul > li > a > p > span:nth-child(2n) {
+    font-weight: 600;
+    color: black;
+}

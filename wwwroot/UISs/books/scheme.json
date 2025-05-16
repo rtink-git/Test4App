@@ -1,0 +1,5 @@
+{
+    "title": "4A - Library of Books",
+    "description": "Список татарской литературы для ознаколения",
+    "modules": [ "/Modules/ApiRtInk_MSAP", "/Modules/BooksBox", "/Modules/BunnerBox", "/Modules/ButtonBox", "/Modules/HeaderBox", "/Modules/Total"  ]
+}

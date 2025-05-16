@@ -6,12 +6,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<ItemGroup>
+  <Content Update="wwwroot\**\*.sql">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+</ItemGroup>
+
   <ItemGroup>
     <ProjectReference Include="../../../Alga/Alga.wwwcore/wwwcore.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot/Modules/" />
+    <Folder Include="wwwroot/Modules/HeaderBox/content/" />
+    <Folder Include="wwwroot/UISs/i/content/" />
   </ItemGroup>
-
 </Project>

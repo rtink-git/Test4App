@@ -1,6 +1,6 @@
 
-const CACHE_NAME = 'RTSWStaticCache-2025-05-14-689819992';
-const URLs_TO_CACHE = ['/','/UISs/i/script.min.js','/UISs/i/style.min.css','/offline'];
+const CACHE_NAME = 'RTSWStaticCache-2025-05-16-524681713';
+const URLs_TO_CACHE = ['/','/UISs/i/script.min.js','/UISs/i/style.min.css','/Modules/BunnerBox/script.min.js','/Modules/BunnerBox/style.min.css','/Modules/HeaderBox/script.min.js','/Modules/HeaderBox/style.min.css','/Modules/Total/script.min.js','/Modules/Total/style.min.css','/Modules/ButtonBox/script.min.js','/Modules/ButtonBox/style.min.css','/UISs/books/script.min.js','/UISs/books/style.min.css','/Modules/ApiRtInk_MSAP/script.min.js','/Modules/BooksBox/script.min.js','/Modules/BooksBox/style.min.css','/UISs/task/script.min.js','/UISs/task/style.min.css','/Modules/TTBox/script.min.js','/Modules/TTBox/style.min.css','/UISs/book/script.min.js','/UISs/book/style.min.css','/Modules/BookBox/script.min.js','/Modules/BookBox/style.min.css','/UISs/bookEdit/script.min.js','/UISs/bookEdit/style.min.css','/Modules/BookEditBox/script.min.js','/Modules/BookEditBox/style.min.css','/offline'];
 const OFFLINE_PAGE = '/offline';
 const staticExtensions = ['.html', '.js', '.css', '.png', '.jpg', '.jpeg', '.svg', '.webp', '.gif', '.woff2', '.woff', '.ttf', '.eot'];
 

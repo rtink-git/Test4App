@@ -1,0 +1,49 @@
+:root {
+    --bs-background-light: #eef2f5;
+}
+
+html, body {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: var(--bs-background-light);
+}
+
+html { height: 100%; }
+
+body { position: relative; min-height: 100%; }
+
+a, button {
+    border: none;
+    background: none;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    /* min-height: inherit; */
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1, h2, h3, p, a, span, input, textarea, time, ::placeholder, select {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}

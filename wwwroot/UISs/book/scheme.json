@@ -1,0 +1,5 @@
+{
+    "title": "4A - Book",
+    "description": "Карточка книги",
+    "modules": [ "/Modules/ApiRtInk_MSAP", "/Modules/BookBox", "/Modules/BookBox", "/Modules/ButtonBox", "/Modules/HeaderBox", "/Modules/Total"  ]
+}

@@ -1,0 +1,5 @@
+{
+    "title": "4A - Task",
+    "description": "Тестовое задание от 4А.Консалтинг",
+    "modules": [ "/Modules/HeaderBox", "/Modules/Total", "/Modules/TTBox", "/Modules/ButtonBox"  ]
+}

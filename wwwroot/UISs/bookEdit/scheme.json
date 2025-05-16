@@ -1,0 +1,5 @@
+{
+    "title": "4A - Edit Books",
+    "description": "Изменить информацию о книге",
+    "modules": [ "/Modules/ApiRtInk_MSAP", "/Modules/BookEditBox", "/Modules/BunnerBox", "/Modules/ButtonBox", "/Modules/HeaderBox", "/Modules/Total"  ]
+}

@@ -1,0 +1,97 @@
+.HeaderBox {
+    float: left;
+    width: 100%;
+    height: 70px;
+    background: #fff;
+}
+
+.HeaderBox > *:first-child {
+    float: left;
+    height: inherit;
+    width: calc(100% - 110px);
+    padding: 0 55px;
+}
+
+@media (max-width: 550px) {
+    .HeaderBox > *:first-child {
+        width: calc(100% - 60px);
+        padding: 0 30px;
+    }
+}
+
+.HeaderBox > div:first-child > a:first-child {
+    float: left;
+    padding: 24px 0 0;
+    font-size: 18px;
+    font-family: 'Audiowide', cursive;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: black;
+    text-decoration: none;
+}
+
+.HeaderBox > div:first-child > nav {
+    float: right;
+    height: inherit;
+}
+
+.HeaderBox > div:first-child > nav > ul {
+    float: left;
+    height: inherit;
+}
+
+.HeaderBox > div:first-child > nav > ul > li,
+.HeaderBox > div:first-child > nav > ul > li > a {
+    float: left;
+    height: inherit;
+    /* background: red; */
+}
+
+.HeaderBox > div:first-child > nav > ul > li > a > * {
+    float: left;
+    background: #ffa500;
+    border-radius: var(--bs-radius);
+    margin: 25px 7px 0;
+}
+
+.HeaderBox > div:first-child > nav > ul > li[data-type="simple"] > a > *,
+.HeaderBox > div:first-child > nav > ul > li[data-type="round"] > a > * {
+    background: none;
+}
+
+.HeaderBox > div:first-child > nav > ul > li > a > * > * {
+    float: left;
+}
+
+.HeaderBox > div:first-child > nav > ul > li > a > * > span {
+    /* margin: 6px 7px 0 17px; */
+    color: rgb(21, 21, 21);
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    font-weight: 600;
+}
+
+.HeaderBox > div:first-child > nav > ul > li > a > div > picture {
+    float: left;
+    height: 24px;
+    width: 24px;
+    /* margin: 3px; */
+    background: rgb(166, 103, 16);
+    border-radius: var(--bs-radius);
+}
+
+.HeaderBox > div:first-child > nav > ul > li[data-type="simple"] > a > div > picture,
+.HeaderBox > div:first-child > nav > ul > li[data-type="round"] > a > div > picture { background: none; }
+
+.HeaderBox > div:first-child > nav > ul > li > a > div > picture > img {
+    float: left;
+    height: 12px;
+    width: 12px;
+    /* margin: 5px; */
+}
+
+.HeaderBox > div:first-child > nav > ul > li[data-type="simple"] > a > div > picture > img {
+    /* margin: 3px; */
+    height: 20px;
+    width: 20px;
+}

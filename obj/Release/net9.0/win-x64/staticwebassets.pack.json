@@ -1,6 +1,254 @@
 {
   "Files": [
     {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ApiRtInk_MSAP/script.js",
+      "PackagePath": "staticwebassets/Modules/ApiRtInk_MSAP/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ApiRtInk_MSAP/script.min.js",
+      "PackagePath": "staticwebassets/Modules/ApiRtInk_MSAP/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookBox/script.js",
+      "PackagePath": "staticwebassets/Modules/BookBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/BookBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookBox/style.css",
+      "PackagePath": "staticwebassets/Modules/BookBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/BookBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookEditBox/script.js",
+      "PackagePath": "staticwebassets/Modules/BookEditBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookEditBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/BookEditBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookEditBox/style.css",
+      "PackagePath": "staticwebassets/Modules/BookEditBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BookEditBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/BookEditBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BooksBox/script.js",
+      "PackagePath": "staticwebassets/Modules/BooksBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BooksBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/BooksBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BooksBox/style.css",
+      "PackagePath": "staticwebassets/Modules/BooksBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BooksBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/BooksBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BunnerBox/script.js",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BunnerBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BunnerBox/style.css",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/BunnerBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ButtonBox/script.js",
+      "PackagePath": "staticwebassets/Modules/ButtonBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ButtonBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/ButtonBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ButtonBox/style.css",
+      "PackagePath": "staticwebassets/Modules/ButtonBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/ButtonBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/ButtonBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/email-icon-64-dark.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/email-icon-64-dark.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/email-icon-64-light.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/email-icon-64-light.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/resume-icon-dark.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/resume-icon-dark.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/resume-icon-light.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/resume-icon-light.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/telegram-icon-dark.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/telegram-icon-dark.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/content/telegram-icon-light.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/telegram-icon-light.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/script.js",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/style.css",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/HeaderBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/script.js",
+      "PackagePath": "staticwebassets/Modules/TTBox/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/script.min.js",
+      "PackagePath": "staticwebassets/Modules/TTBox/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/style.css",
+      "PackagePath": "staticwebassets/Modules/TTBox/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/style.min.css",
+      "PackagePath": "staticwebassets/Modules/TTBox/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/script.js",
+      "PackagePath": "staticwebassets/Modules/Total/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/script.min.js",
+      "PackagePath": "staticwebassets/Modules/Total/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/style.css",
+      "PackagePath": "staticwebassets/Modules/Total/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/style.min.css",
+      "PackagePath": "staticwebassets/Modules/Total/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/index.debug.html",
+      "PackagePath": "staticwebassets/UISs/book/index.debug.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/index.html",
+      "PackagePath": "staticwebassets/UISs/book/index.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/scheme.json",
+      "PackagePath": "staticwebassets/UISs/book/scheme.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/script.js",
+      "PackagePath": "staticwebassets/UISs/book/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/script.min.js",
+      "PackagePath": "staticwebassets/UISs/book/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/style.css",
+      "PackagePath": "staticwebassets/UISs/book/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/book/style.min.css",
+      "PackagePath": "staticwebassets/UISs/book/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/index.debug.html",
+      "PackagePath": "staticwebassets/UISs/bookEdit/index.debug.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/index.html",
+      "PackagePath": "staticwebassets/UISs/bookEdit/index.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/scheme.json",
+      "PackagePath": "staticwebassets/UISs/bookEdit/scheme.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/script.js",
+      "PackagePath": "staticwebassets/UISs/bookEdit/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/script.min.js",
+      "PackagePath": "staticwebassets/UISs/bookEdit/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/style.css",
+      "PackagePath": "staticwebassets/UISs/bookEdit/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/bookEdit/style.min.css",
+      "PackagePath": "staticwebassets/UISs/bookEdit/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/index.debug.html",
+      "PackagePath": "staticwebassets/UISs/books/index.debug.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/index.html",
+      "PackagePath": "staticwebassets/UISs/books/index.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/scheme.json",
+      "PackagePath": "staticwebassets/UISs/books/scheme.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/script.js",
+      "PackagePath": "staticwebassets/UISs/books/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/script.min.js",
+      "PackagePath": "staticwebassets/UISs/books/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/style.css",
+      "PackagePath": "staticwebassets/UISs/books/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/books/style.min.css",
+      "PackagePath": "staticwebassets/UISs/books/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/content/code-test.docx",
+      "PackagePath": "staticwebassets/UISs/i/content/code-test.docx"
+    },
+    {
       "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/index.debug.html",
       "PackagePath": "staticwebassets/UISs/i/index.debug.html"
     },
@@ -27,6 +275,106 @@
     {
       "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/i/style.min.css",
       "PackagePath": "staticwebassets/UISs/i/style.min.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-1.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-1.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-1.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-1.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-10.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-10.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-10.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-10.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-11.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-11.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-13.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-13.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-14.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-14.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-2.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-2.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-2.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-2.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-21.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-21.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-22.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-22.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-22.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-22.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-3.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-3.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-3.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-3.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-4.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-4.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-4.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-4.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-5.png",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-5.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/content/Test4a-5.sql",
+      "PackagePath": "staticwebassets/UISs/task/content/Test4a-5.sql"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/index.debug.html",
+      "PackagePath": "staticwebassets/UISs/task/index.debug.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/index.html",
+      "PackagePath": "staticwebassets/UISs/task/index.html"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/scheme.json",
+      "PackagePath": "staticwebassets/UISs/task/scheme.json"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js",
+      "PackagePath": "staticwebassets/UISs/task/script.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
+      "PackagePath": "staticwebassets/UISs/task/script.min.js"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/style.css",
+      "PackagePath": "staticwebassets/UISs/task/style.css"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/style.min.css",
+      "PackagePath": "staticwebassets/UISs/task/style.min.css"
     },
     {
       "Id": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/app.js",
