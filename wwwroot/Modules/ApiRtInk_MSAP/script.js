@@ -43,9 +43,7 @@ class ApiRtInk_MSAP {
     _R_POST_JSON = async (urlPart, data) => {
         const nm = this._LogBase + "_R_POST_JSON()";
         try {
-            const headers = {
-                'Content-Type': 'application/json'
-            };
+            const headers = {'Content-Type': 'application/json'};
 
             const s = this._GetSession();
             if (s) headers[this._AlgaSessionLS] = s;

@@ -3,7 +3,7 @@ export async function taskUIS() {
     if(isDebug) console.log("Is DEBUG")
 
     const urlSrplit = document.URL.split('/')
-    let id = 1
+    var id = 1
     if (urlSrplit.length > 4) id = parseInt(urlSrplit[4]);
 
     let headerBox = new HeaderBox("")
@@ -17,14 +17,14 @@ export async function taskUIS() {
 
     document.getElementById(lastVerticalId).insertAdjacentHTML("afterend", "<main></main>")
 
-    let practice = `Опциональное задание. 1. Установить MS SQL Express Edition 2. Cоздать БД . Например список книг в домашней библиотеке: Название, автор, год издания, … другие поля, оглавление в виде xml поля. Оглавление в виде xml файла. 3. Создать хранимые процедуры для insert, update, delete, select … 4. Создать 2 типа проектов в MS Visual Studio: MVC, WEB-Forms 5. Для каждого реализовать карточку, список, функции редактирования, создания, изменения, просмотра записей с помощью хранимых процедур. 6. Также в карточке сделать форму для редактирования оглавления в виде HTML редактора (можно найти контрол в интернете), сохранять содержимое в xml поле. 7. Реализовать примеры выборки данных из xml.`
+    let practice = "Опциональное задание. 1. Установить MS SQL Express Edition 2. Cоздать БД . Например список книг в домашней библиотеке: Название, автор, год издания, … другие поля, оглавление в виде xml поля. Оглавление в виде xml файла. 3. Создать хранимые процедуры для insert, update, delete, select … 4. Создать 2 типа проектов в MS Visual Studio: MVC, WEB-Forms 5. Для каждого реализовать карточку, список, функции редактирования, создания, изменения, просмотра записей с помощью хранимых процедур. 6. Также в карточке сделать форму для редактирования оглавления в виде HTML редактора (можно найти контрол в интернете), сохранять содержимое в xml поле. 7. Реализовать примеры выборки данных из xml."
 
     const tasklist = new Map([
         [1, { title:"TASK: SELECT", task: "Есть две таблицы: Т1 (ID int, Text1 …., text2 …. B и т.д.) И Т2 (ID int, Text1 …., text2 …. B и т.д.). Написать SELECT: Вывести все поля из обеих таблиц, вывести записи при условии, что ID обеих таблиц совпадают.", answer: "", slideUrl: "/UISs/task/content/Test4a-1.png", attachedFile: "/sql/Test4a-1.sql" }],
         [2, { title:"TASK: SELECT", task: "Есть две таблицы: Т1 (ID int, Text1 …., text2 …. B и т.д.) И Т2 (ID int, Text1 …., text2 …. B и т.д.). Написать SELECT: Вывести все поля из обеих таблиц, вывести все записи из T1 и только имеющиеся в T2", answer: "", slideUrl: "/UISs/task/content/Test4a-2.png", attachedFile: "/sql/Test4a-2.sql" }],
         [3, { title:"TASK: SELECT", task: "Есть две таблицы: Т1 (ID int, Text1 …., text2 …. B и т.д.) И Т2 (ID int, Text1 …., text2 …. B и т.д.). Написать SELECT: Вывести все записи из T1, при условии, что таких ID нет в T2", answer: "", slideUrl: "/UISs/task/content/Test4a-3.png", attachedFile: "/sql/Test4a-3.sql" }],
         [4, { title:"TASK: SELECT XML", task: "Как вывести результат запроса в XML? Написать запрос, выводящий данные в XML. Пусть есть таблица T со следующим видом и содержанием. Что вернет SQL запрос? Написать запрос, выводящий данные в XML.", answer: "", slideUrl: "/UISs/task/content/Test4a-4.png", attachedFile: "/sql/Test4a-4.sql" }],
-        [5, { title:"TASK: SELECT XML", task: "Как выбрать данные из поля с XML? Написать запрос, выбирающий данные из XML из предыдущего вопроса. Отфильтровать данные по StatusId != 3", answer: "", slideUrl: "/UISs/task/content/5.png", slideUrl: "/UISs/task/content/Test4a-5.png", attachedFile: "/sql/Test4a-5.sql" }],
+        [5, { title:"TASK: SELECT XML", task: "Как выбрать данные из поля с XML? Написать запрос, выбирающий данные из XML из предыдущего вопроса. Отфильтровать данные по StatusId != 3", answer: "", slideUrl: "/UISs/task/content/Test4a-5.png", attachedFile: "/sql/Test4a-5.sql" }],
         [6, { title:"TASK: SQL", task: "Что такое hints?", answer: "SQL Hints (подсказки) - это специальные инструкции, которые добавляются в SQL-запросы, чтобы влиять на способ выполнения запроса оптимизатором запросов СУБД. Они позволяют разработчику явно указать базе данных, как лучше выполнить запрос, когда оптимизатор может выбрать неоптимальный план выполнения. Example: /*+ ALL_ROWS */" }],
         [7, { title:"TASK: SQL", task: "Какие виды блокировок существуют?", answer: "По уровню изоляции (Блокировка строки (Row-level lock), Блокировка страницы (Page-level lock), Блокировка таблицы (Table-level lock), Блокировка базы данных (Database-level lock)), По типу блокировки (Shared Lock (S), Exclusive Lock (X), Update Lock (U), Intent Locks (IS, IX, SIX), Schema Lock), По длительности (Автоматические (временные), Удерживаемые вручную), По режиму доступа (Совместимые блокировки, Несовместимые блокировки)" }],
         [8, { title:"TASK: SQL", task: "Что такое транзакция?", answer: "Транзакция в SQL — это логическая единица работы, которая состоит из одного или нескольких SQL-операторов и выполняется как одно целое. Она гарантирует, что все операции внутри неё выполнятся полностью или не будут выполнены вовсе." }],
@@ -46,7 +46,7 @@ export async function taskUIS() {
 
     var taskM = tasklist.get(id)
 
-    let tTBox = new TTBox("", taskM.title, taskM.task, taskM.slideUrl, taskM.attachedFile, taskM.answer)
+    var tTBox = new TTBox("", taskM.title, taskM.task, taskM.slideUrl, taskM.attachedFile, taskM.answer)
     tTBox.push(document.getElementsByTagName("main")[0], "afterbegin");
     lastVerticalId = tTBox.Id
 
@@ -55,7 +55,7 @@ export async function taskUIS() {
     if(nextPage > 22) nextPageUrl = "/books"
     
 
-    let buttonBox = new ButtonBox("", "NEXT", nextPageUrl)
+    var buttonBox = new ButtonBox("", "NEXT", nextPageUrl)
     buttonBox.push(lastVerticalId);
     lastVerticalId = buttonBox.Id
 }

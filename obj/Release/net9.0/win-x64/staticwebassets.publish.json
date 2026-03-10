@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7zs71ItYrE/vmfDUp1Zhr7y3dHgYa6i+k/JKxrXKKoo=",
+  "Hash": "bJ02fCgDw+5W+CTTe8kaCszblofxikWD8RcT2fOscWE=",
   "Source": "Test4App",
   "BasePath": "_content/Test4App",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/index.debug.html"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dl2f5oa023.gz",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dcta1g2nol.gz",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "serviceworker#[.{fingerprint=dl2f5oa023}]?.js.gz",
+      "RelativePath": "serviceworker#[.{fingerprint=dcta1g2nol}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "13jg956ifg",
-      "Integrity": "nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4=",
+      "Fingerprint": "cqgcfi4s4v",
+      "Integrity": "TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js"
@@ -1466,12 +1466,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/index.debug.html"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dl2f5oa023.br",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dcta1g2nol.br",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "serviceworker#[.{fingerprint=dl2f5oa023}]?.js.br",
+      "RelativePath": "serviceworker#[.{fingerprint=dcta1g2nol}]?.js.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "b46uq7pbok",
-      "Integrity": "hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0=",
+      "Fingerprint": "3d8ox1i1yx",
+      "Integrity": "VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js"
@@ -2012,12 +2012,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/script.js"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-ibz5j9q82f.br",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-fbu4mlkykt.br",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "UISs/task/script#[.{fingerprint=ibz5j9q82f}]?.js.br",
+      "RelativePath": "UISs/task/script#[.{fingerprint=fbu4mlkykt}]?.js.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2026,8 +2026,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "lya046gbas",
-      "Integrity": "g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo=",
+      "Fingerprint": "piu8ddzqd2",
+      "Integrity": "f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js"
@@ -2243,12 +2243,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/script.min.js"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-d6imvr261q.br",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-l6x7fbqw2p.br",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "UISs/task/script.min#[.{fingerprint=d6imvr261q}]?.js.br",
+      "RelativePath": "UISs/task/script.min#[.{fingerprint=l6x7fbqw2p}]?.js.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2257,8 +2257,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "4glqsmpql7",
-      "Integrity": "FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0=",
+      "Fingerprint": "fq101xhvoi",
+      "Integrity": "x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js"
@@ -2600,12 +2600,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/Total/script.js"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-ibz5j9q82f.gz",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-fbu4mlkykt.gz",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "UISs/task/script#[.{fingerprint=ibz5j9q82f}]?.js.gz",
+      "RelativePath": "UISs/task/script#[.{fingerprint=fbu4mlkykt}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2614,8 +2614,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8vhqxm72rn",
-      "Integrity": "9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI=",
+      "Fingerprint": "2ah2huitgj",
+      "Integrity": "BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js"
@@ -2831,12 +2831,12 @@
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/Modules/TTBox/script.min.js"
     },
     {
-      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-d6imvr261q.gz",
+      "Identity": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-l6x7fbqw2p.gz",
       "SourceId": "Test4App",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/",
       "BasePath": "_content/Test4App",
-      "RelativePath": "UISs/task/script.min#[.{fingerprint=d6imvr261q}]?.js.gz",
+      "RelativePath": "UISs/task/script.min#[.{fingerprint=l6x7fbqw2p}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5bhec2lfsq",
-      "Integrity": "38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4=",
+      "Fingerprint": "nw83v5hiqd",
+      "Integrity": "KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js"
@@ -4000,8 +4000,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dl2f5oa023",
-      "Integrity": "4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=",
+      "Fingerprint": "dcta1g2nol",
+      "Integrity": "DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/serviceworker.js"
@@ -5071,8 +5071,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ibz5j9q82f",
-      "Integrity": "Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=",
+      "Fingerprint": "fbu4mlkykt",
+      "Integrity": "e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/UISs/task/script.js"
@@ -5092,8 +5092,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d6imvr261q",
-      "Integrity": "e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=",
+      "Fingerprint": "l6x7fbqw2p",
+      "Integrity": "Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/UISs/task/script.min.js"
@@ -5167,7 +5167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5230,7 +5230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5291,7 +5291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5336,7 +5336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5389,7 +5389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5444,7 +5444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5499,7 +5499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5552,7 +5552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5589,7 +5589,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5634,7 +5634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6195,7 +6195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6250,7 +6250,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6303,7 +6303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6340,7 +6340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6385,7 +6385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6432,7 +6432,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6495,7 +6495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6556,7 +6556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6601,7 +6601,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6654,7 +6654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6946,7 +6946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7001,7 +7001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7054,7 +7054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7091,7 +7091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7136,7 +7136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7183,7 +7183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7246,7 +7246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7307,7 +7307,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7352,7 +7352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7405,7 +7405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8251,7 +8251,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8306,7 +8306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8359,7 +8359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8396,7 +8396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8441,7 +8441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8488,7 +8488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8551,7 +8551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8612,7 +8612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8657,7 +8657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8710,7 +8710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9002,7 +9002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9057,7 +9057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9110,7 +9110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9147,7 +9147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9192,7 +9192,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9239,7 +9239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9302,7 +9302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9363,7 +9363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9408,7 +9408,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9461,7 +9461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10307,7 +10307,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10362,7 +10362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10415,7 +10415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10452,7 +10452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10497,7 +10497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10544,7 +10544,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10607,7 +10607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10668,7 +10668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10713,7 +10713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10766,7 +10766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11058,7 +11058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11113,7 +11113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11166,7 +11166,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11203,7 +11203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11248,7 +11248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11295,7 +11295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11358,7 +11358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11419,7 +11419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11464,7 +11464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11517,7 +11517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12086,7 +12086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12141,7 +12141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12194,7 +12194,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12231,7 +12231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12276,7 +12276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12323,7 +12323,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12386,7 +12386,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12447,7 +12447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12492,7 +12492,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12545,7 +12545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13391,7 +13391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13454,7 +13454,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13515,7 +13515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13560,7 +13560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13613,7 +13613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13668,7 +13668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13723,7 +13723,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13776,7 +13776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13813,7 +13813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13858,7 +13858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14142,7 +14142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14197,7 +14197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14250,7 +14250,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14287,7 +14287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14332,7 +14332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14379,7 +14379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14442,7 +14442,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14503,7 +14503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14548,7 +14548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14601,7 +14601,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15447,7 +15447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15510,7 +15510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15571,7 +15571,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15616,7 +15616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15669,7 +15669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15724,7 +15724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15779,7 +15779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15832,7 +15832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15869,7 +15869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15914,7 +15914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16475,7 +16475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16530,7 +16530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16583,7 +16583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16620,7 +16620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16665,7 +16665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16712,7 +16712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16775,7 +16775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16836,7 +16836,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16881,7 +16881,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16934,7 +16934,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17503,7 +17503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17558,7 +17558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17611,7 +17611,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17648,7 +17648,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17693,7 +17693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17740,7 +17740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17803,7 +17803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17864,7 +17864,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17909,7 +17909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17962,7 +17962,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18746,7 +18746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18809,7 +18809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18870,7 +18870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18915,7 +18915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18968,7 +18968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19023,7 +19023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19078,7 +19078,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19131,7 +19131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19168,7 +19168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19213,7 +19213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19774,7 +19774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19829,7 +19829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19882,7 +19882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19919,7 +19919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19964,7 +19964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20011,7 +20011,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20074,7 +20074,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20135,7 +20135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20180,7 +20180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20233,7 +20233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21079,7 +21079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21142,7 +21142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21203,7 +21203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21248,7 +21248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21301,7 +21301,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21356,7 +21356,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21411,7 +21411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21464,7 +21464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21501,7 +21501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21546,7 +21546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22107,7 +22107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22162,7 +22162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22215,7 +22215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22252,7 +22252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22297,7 +22297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22344,7 +22344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22407,7 +22407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22468,7 +22468,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22513,7 +22513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22566,7 +22566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23135,7 +23135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23190,7 +23190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23243,7 +23243,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23280,7 +23280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23325,7 +23325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23372,7 +23372,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23435,7 +23435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23496,7 +23496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23541,7 +23541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23594,7 +23594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23886,7 +23886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23941,7 +23941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23994,7 +23994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24031,7 +24031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24076,7 +24076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24123,7 +24123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24186,7 +24186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24247,7 +24247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24292,7 +24292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24345,7 +24345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24653,13 +24653,13 @@
       ]
     },
     {
-      "Route": "serviceworker.dl2f5oa023.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dl2f5oa023.gz",
+      "Route": "serviceworker.dcta1g2nol.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dcta1g2nol.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000649350649"
+          "Quality": "0.000649772580"
         }
       ],
       "ResponseHeaders": [
@@ -24669,15 +24669,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1539"
+          "Value": "1538"
         },
         {
           "Name": "ETag",
-          "Value": "\"nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4=\""
+          "Value": "\"TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24697,13 +24697,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "W/\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dl2f5oa023"
+          "Value": "dcta1g2nol"
         },
         {
           "Name": "label",
@@ -24711,18 +24711,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
     {
-      "Route": "serviceworker.dl2f5oa023.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dl2f5oa023.br",
+      "Route": "serviceworker.dcta1g2nol.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dcta1g2nol.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000789265983"
+          "Quality": "0.000786782061"
         }
       ],
       "ResponseHeaders": [
@@ -24732,15 +24732,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1270"
         },
         {
           "Name": "ETag",
-          "Value": "\"hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0=\""
+          "Value": "\"VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24760,13 +24760,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "W/\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dl2f5oa023"
+          "Value": "dcta1g2nol"
         },
         {
           "Name": "label",
@@ -24774,12 +24774,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
     {
-      "Route": "serviceworker.dl2f5oa023.js",
+      "Route": "serviceworker.dcta1g2nol.js",
       "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/serviceworker.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -24797,11 +24797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24811,7 +24811,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dl2f5oa023"
+          "Value": "dcta1g2nol"
         },
         {
           "Name": "label",
@@ -24819,13 +24819,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
     {
-      "Route": "serviceworker.dl2f5oa023.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dl2f5oa023.br",
+      "Route": "serviceworker.dcta1g2nol.js.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dcta1g2nol.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24834,7 +24834,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1270"
         },
         {
           "Name": "Content-Type",
@@ -24842,11 +24842,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0=\""
+          "Value": "\"VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24864,7 +24864,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dl2f5oa023"
+          "Value": "dcta1g2nol"
         },
         {
           "Name": "label",
@@ -24872,13 +24872,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0="
+          "Value": "sha256-VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E="
         }
       ]
     },
     {
-      "Route": "serviceworker.dl2f5oa023.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dl2f5oa023.gz",
+      "Route": "serviceworker.dcta1g2nol.js.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dcta1g2nol.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24887,7 +24887,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1539"
+          "Value": "1538"
         },
         {
           "Name": "Content-Type",
@@ -24895,11 +24895,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4=\""
+          "Value": "\"TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24917,7 +24917,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dl2f5oa023"
+          "Value": "dcta1g2nol"
         },
         {
           "Name": "label",
@@ -24925,18 +24925,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4="
+          "Value": "sha256-TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI="
         }
       ]
     },
     {
       "Route": "serviceworker.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dl2f5oa023.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dcta1g2nol.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000649350649"
+          "Quality": "0.000649772580"
         }
       ],
       "ResponseHeaders": [
@@ -24946,15 +24946,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1539"
+          "Value": "1538"
         },
         {
           "Name": "ETag",
-          "Value": "\"nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4=\""
+          "Value": "\"TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24974,24 +24974,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "W/\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
     {
       "Route": "serviceworker.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dl2f5oa023.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dcta1g2nol.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000789265983"
+          "Quality": "0.000786782061"
         }
       ],
       "ResponseHeaders": [
@@ -25001,15 +25001,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1270"
         },
         {
           "Name": "ETag",
-          "Value": "\"hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0=\""
+          "Value": "\"VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25029,13 +25029,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "W/\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
@@ -25058,11 +25058,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I=\""
+          "Value": "\"DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25072,13 +25072,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4d/u/7jBLWoOuxMcfXGiATG+pTVWpva5o22GXyWzl1I="
+          "Value": "sha256-DXRdJQ+8ezANbeZ6ahFpx9eyyidtVopxIv/F2a8y4zQ="
         }
       ]
     },
     {
       "Route": "serviceworker.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dl2f5oa023.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/gep03uu17h-dcta1g2nol.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25087,7 +25087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1270"
         },
         {
           "Name": "Content-Type",
@@ -25095,11 +25095,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0=\""
+          "Value": "\"VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25117,13 +25117,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hV9oCrR8F+mTbeWnFCzw49TGpCup1voVWWIpfhucRl0="
+          "Value": "sha256-VwVN+cXS8vU1f0Fv+oMHIamVX2ALKeFw0Bwq8n+0D9E="
         }
       ]
     },
     {
       "Route": "serviceworker.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dl2f5oa023.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/gep03uu17h-dcta1g2nol.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25132,7 +25132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1539"
+          "Value": "1538"
         },
         {
           "Name": "Content-Type",
@@ -25140,11 +25140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4=\""
+          "Value": "\"TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25162,7 +25162,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nYGhIfkLrBsfiImc0tTYWmO5+5GWL5rQSiKvYxRWof4="
+          "Value": "sha256-TOnLyvoxiF6udbFFUD429h+ihm2ZGx/Egmnk1282/rI="
         }
       ]
     },
@@ -25191,7 +25191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25246,7 +25246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25299,7 +25299,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25336,7 +25336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25381,7 +25381,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25428,7 +25428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25491,7 +25491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25552,7 +25552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25597,7 +25597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25650,7 +25650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25705,7 +25705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25760,7 +25760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25813,7 +25813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25850,7 +25850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25895,7 +25895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25942,7 +25942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26005,7 +26005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26066,7 +26066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26111,7 +26111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26164,7 +26164,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27247,7 +27247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27310,7 +27310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27371,7 +27371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27416,7 +27416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27469,7 +27469,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27524,7 +27524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27579,7 +27579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27632,7 +27632,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27669,7 +27669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27714,7 +27714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28275,7 +28275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28330,7 +28330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28383,7 +28383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28420,7 +28420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28465,7 +28465,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28512,7 +28512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28575,7 +28575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28636,7 +28636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28681,7 +28681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28734,7 +28734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28789,7 +28789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28852,7 +28852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28913,7 +28913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28958,7 +28958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29011,7 +29011,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29066,7 +29066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29121,7 +29121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29174,7 +29174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29211,7 +29211,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29256,7 +29256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29303,7 +29303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29366,7 +29366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29427,7 +29427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29472,7 +29472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29525,7 +29525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29580,7 +29580,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29635,7 +29635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29688,7 +29688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29725,7 +29725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29770,7 +29770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30568,7 +30568,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30623,7 +30623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30676,7 +30676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30713,7 +30713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30758,7 +30758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30805,7 +30805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30868,7 +30868,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30929,7 +30929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30974,7 +30974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31027,7 +31027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31873,7 +31873,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31936,7 +31936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31997,7 +31997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32042,7 +32042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32095,7 +32095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32150,7 +32150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32205,7 +32205,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32258,7 +32258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32295,7 +32295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32340,7 +32340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32387,7 +32387,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32450,7 +32450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32511,7 +32511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32556,7 +32556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32609,7 +32609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32664,7 +32664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32719,7 +32719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32772,7 +32772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32809,7 +32809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32854,7 +32854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32901,7 +32901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32956,7 +32956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33009,7 +33009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33046,7 +33046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33091,7 +33091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33138,7 +33138,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33201,7 +33201,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33262,7 +33262,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33307,7 +33307,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33360,7 +33360,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34166,7 +34166,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34221,7 +34221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34274,7 +34274,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34311,7 +34311,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34356,7 +34356,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34403,7 +34403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34466,7 +34466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34527,7 +34527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34572,7 +34572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34625,7 +34625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35471,7 +35471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35534,7 +35534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35595,7 +35595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35640,7 +35640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35693,7 +35693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35748,7 +35748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35803,7 +35803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35856,7 +35856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35893,7 +35893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35938,7 +35938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36067,7 +36067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36130,7 +36130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36191,7 +36191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36236,7 +36236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36289,7 +36289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36344,7 +36344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36407,7 +36407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36468,7 +36468,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36513,7 +36513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36566,7 +36566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36621,7 +36621,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36676,7 +36676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36729,7 +36729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36766,7 +36766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36811,7 +36811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36858,7 +36858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36913,7 +36913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36966,7 +36966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37003,7 +37003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37048,7 +37048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37846,7 +37846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37901,7 +37901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37954,7 +37954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37991,7 +37991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38036,7 +38036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38083,7 +38083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38146,7 +38146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38207,7 +38207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38252,7 +38252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38305,7 +38305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39151,7 +39151,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39214,7 +39214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39275,7 +39275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39320,7 +39320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39373,7 +39373,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39428,7 +39428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39483,7 +39483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39536,7 +39536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39573,7 +39573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39618,7 +39618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41141,7 +41141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41196,7 +41196,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41249,7 +41249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41286,7 +41286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41331,7 +41331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41378,7 +41378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41441,7 +41441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41502,7 +41502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41547,7 +41547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41600,7 +41600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41655,7 +41655,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41718,7 +41718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41779,7 +41779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41824,7 +41824,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41877,7 +41877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41932,7 +41932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41987,7 +41987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42040,7 +42040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42077,7 +42077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42122,7 +42122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:46 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42659,13 +42659,13 @@
       ]
     },
     {
-      "Route": "UISs/task/script.ibz5j9q82f.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-ibz5j9q82f.br",
+      "Route": "UISs/task/script.fbu4mlkykt.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-fbu4mlkykt.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000152625153"
+          "Quality": "0.000152718387"
         }
       ],
       "ResponseHeaders": [
@@ -42675,15 +42675,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6547"
         },
         {
           "Name": "ETag",
-          "Value": "\"g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo=\""
+          "Value": "\"f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42703,13 +42703,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "W/\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ibz5j9q82f"
+          "Value": "fbu4mlkykt"
         },
         {
           "Name": "label",
@@ -42717,18 +42717,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.ibz5j9q82f.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-ibz5j9q82f.gz",
+      "Route": "UISs/task/script.fbu4mlkykt.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-fbu4mlkykt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000125675506"
+          "Quality": "0.000125833648"
         }
       ],
       "ResponseHeaders": [
@@ -42738,15 +42738,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7956"
+          "Value": "7946"
         },
         {
           "Name": "ETag",
-          "Value": "\"9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI=\""
+          "Value": "\"BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42766,13 +42766,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "W/\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ibz5j9q82f"
+          "Value": "fbu4mlkykt"
         },
         {
           "Name": "label",
@@ -42780,12 +42780,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.ibz5j9q82f.js",
+      "Route": "UISs/task/script.fbu4mlkykt.js",
       "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -42795,7 +42795,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25054"
+          "Value": "25016"
         },
         {
           "Name": "Content-Type",
@@ -42803,11 +42803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42817,7 +42817,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ibz5j9q82f"
+          "Value": "fbu4mlkykt"
         },
         {
           "Name": "label",
@@ -42825,13 +42825,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.ibz5j9q82f.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-ibz5j9q82f.br",
+      "Route": "UISs/task/script.fbu4mlkykt.js.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-fbu4mlkykt.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -42840,7 +42840,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6547"
         },
         {
           "Name": "Content-Type",
@@ -42848,11 +42848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo=\""
+          "Value": "\"f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42870,7 +42870,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ibz5j9q82f"
+          "Value": "fbu4mlkykt"
         },
         {
           "Name": "label",
@@ -42878,13 +42878,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo="
+          "Value": "sha256-f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.ibz5j9q82f.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-ibz5j9q82f.gz",
+      "Route": "UISs/task/script.fbu4mlkykt.js.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-fbu4mlkykt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -42893,7 +42893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7956"
+          "Value": "7946"
         },
         {
           "Name": "Content-Type",
@@ -42901,11 +42901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI=\""
+          "Value": "\"BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42923,7 +42923,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ibz5j9q82f"
+          "Value": "fbu4mlkykt"
         },
         {
           "Name": "label",
@@ -42931,18 +42931,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI="
+          "Value": "sha256-BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0="
         }
       ]
     },
     {
       "Route": "UISs/task/script.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-ibz5j9q82f.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-fbu4mlkykt.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000152625153"
+          "Quality": "0.000152718387"
         }
       ],
       "ResponseHeaders": [
@@ -42952,15 +42952,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6547"
         },
         {
           "Name": "ETag",
-          "Value": "\"g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo=\""
+          "Value": "\"f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -42980,24 +42980,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "W/\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
     {
       "Route": "UISs/task/script.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-ibz5j9q82f.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-fbu4mlkykt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000125675506"
+          "Quality": "0.000125833648"
         }
       ],
       "ResponseHeaders": [
@@ -43007,15 +43007,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7956"
+          "Value": "7946"
         },
         {
           "Name": "ETag",
-          "Value": "\"9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI=\""
+          "Value": "\"BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43035,13 +43035,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "W/\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
@@ -43056,7 +43056,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25054"
+          "Value": "25016"
         },
         {
           "Name": "Content-Type",
@@ -43064,11 +43064,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0=\""
+          "Value": "\"e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43078,13 +43078,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Dpny9VVCGXUW3F6JxDsmt5bXDweikImt/ZLe5NN/jK0="
+          "Value": "sha256-e3wArvvJgrJe/BJl8DC0XheoflDsWoVoNMJOcTzN8CQ="
         }
       ]
     },
     {
       "Route": "UISs/task/script.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-ibz5j9q82f.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/ry7ng9g0fy-fbu4mlkykt.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -43093,7 +43093,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6547"
         },
         {
           "Name": "Content-Type",
@@ -43101,11 +43101,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo=\""
+          "Value": "\"f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43123,13 +43123,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g6wR7aHccvuTKUnWlLd5julq9qdcxmZr6RBL4csfhZo="
+          "Value": "sha256-f4LLataxd73ZrpVKtICb5ofczo3WgkWUHiVqXu8JZ4A="
         }
       ]
     },
     {
       "Route": "UISs/task/script.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-ibz5j9q82f.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/ry7ng9g0fy-fbu4mlkykt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -43138,7 +43138,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7956"
+          "Value": "7946"
         },
         {
           "Name": "Content-Type",
@@ -43146,11 +43146,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI=\""
+          "Value": "\"BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 23:44:01 GMT"
+          "Value": "Fri, 16 May 2025 04:48:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43168,18 +43168,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9KWHC76qFuxrfPqDLLb2KM0H8bvD3bXeCENoUmC0ufI="
+          "Value": "sha256-BvPSLV35f3q2xMrPZkDrtfz8p9pTq0IUl5r889X2Qk0="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.min.d6imvr261q.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-d6imvr261q.br",
+      "Route": "UISs/task/script.min.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-l6x7fbqw2p.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000420521447"
+          "Quality": "0.000153374233"
         }
       ],
       "ResponseHeaders": [
@@ -43189,19 +43189,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2377"
+          "Value": "6519"
         },
         {
           "Name": "ETag",
-          "Value": "\"FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0=\""
+          "Value": "\"x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -43217,32 +43217,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
+          "Value": "W/\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "d6imvr261q"
-        },
-        {
-          "Name": "label",
-          "Value": "UISs/task/script.min.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.min.d6imvr261q.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-d6imvr261q.gz",
+      "Route": "UISs/task/script.min.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-l6x7fbqw2p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000344234079"
+          "Quality": "0.000127161750"
         }
       ],
       "ResponseHeaders": [
@@ -43252,19 +43244,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2904"
+          "Value": "7863"
         },
         {
           "Name": "ETag",
-          "Value": "\"38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4=\""
+          "Value": "\"KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -43280,26 +43272,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
+          "Value": "W/\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "d6imvr261q"
-        },
-        {
-          "Name": "label",
-          "Value": "UISs/task/script.min.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.min.d6imvr261q.js",
+      "Route": "UISs/task/script.min.js",
       "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -43309,7 +43293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7685"
+          "Value": "24425"
         },
         {
           "Name": "Content-Type",
@@ -43317,11 +43301,264 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
+          "Value": "\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
+        }
+      ]
+    },
+    {
+      "Route": "UISs/task/script.min.js.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-l6x7fbqw2p.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg="
+        }
+      ]
+    },
+    {
+      "Route": "UISs/task/script.min.js.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-l6x7fbqw2p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A="
+        }
+      ]
+    },
+    {
+      "Route": "UISs/task/script.min.l6x7fbqw2p.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-l6x7fbqw2p.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000153374233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l6x7fbqw2p"
+        },
+        {
+          "Name": "label",
+          "Value": "UISs/task/script.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
+        }
+      ]
+    },
+    {
+      "Route": "UISs/task/script.min.l6x7fbqw2p.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-l6x7fbqw2p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000127161750"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7863"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l6x7fbqw2p"
+        },
+        {
+          "Name": "label",
+          "Value": "UISs/task/script.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
+        }
+      ]
+    },
+    {
+      "Route": "UISs/task/script.min.l6x7fbqw2p.js",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43331,7 +43568,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d6imvr261q"
+          "Value": "l6x7fbqw2p"
         },
         {
           "Name": "label",
@@ -43339,13 +43576,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
+          "Value": "sha256-Q0HvystsX5rCb4Z00XIDKjcaOizs+b6ntnM+2ivUAVs="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.min.d6imvr261q.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-d6imvr261q.br",
+      "Route": "UISs/task/script.min.l6x7fbqw2p.js.br",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-l6x7fbqw2p.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -43354,7 +43591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2377"
+          "Value": "6519"
         },
         {
           "Name": "Content-Type",
@@ -43362,11 +43599,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0=\""
+          "Value": "\"x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43384,7 +43621,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d6imvr261q"
+          "Value": "l6x7fbqw2p"
         },
         {
           "Name": "label",
@@ -43392,13 +43629,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0="
+          "Value": "sha256-x50CicAcIOlS1/A+D4G4gWFuP3mx7X3HmXnwwaBVgfg="
         }
       ]
     },
     {
-      "Route": "UISs/task/script.min.d6imvr261q.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-d6imvr261q.gz",
+      "Route": "UISs/task/script.min.l6x7fbqw2p.js.gz",
+      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-l6x7fbqw2p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -43407,7 +43644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2904"
+          "Value": "7863"
         },
         {
           "Name": "Content-Type",
@@ -43415,11 +43652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4=\""
+          "Value": "\"KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43437,7 +43674,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d6imvr261q"
+          "Value": "l6x7fbqw2p"
         },
         {
           "Name": "label",
@@ -43445,244 +43682,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4="
-        }
-      ]
-    },
-    {
-      "Route": "UISs/task/script.min.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-d6imvr261q.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000420521447"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2377"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
-        }
-      ]
-    },
-    {
-      "Route": "UISs/task/script.min.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-d6imvr261q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000344234079"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2904"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
-        }
-      ]
-    },
-    {
-      "Route": "UISs/task/script.min.js",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/wwwroot/UISs/task/script.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7685"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-e495PnUFrlTd8dYD+xwsnFfSID2aPOFSNqc+hfwdvNU="
-        }
-      ]
-    },
-    {
-      "Route": "UISs/task/script.min.js.br",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/publish/vfhb45r8h5-d6imvr261q.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2377"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FLOWY2l//UwPvm6cpJOfIW3tXNbOiAdmoZxSBCm76i0="
-        }
-      ]
-    },
-    {
-      "Route": "UISs/task/script.min.js.gz",
-      "AssetFile": "/Users/airatgalimov/Documents/Airat/Projects/CodingTest/Test4App/Test4App/obj/Release/net9.0/win-x64/compressed/vfhb45r8h5-d6imvr261q.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2904"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:07:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-38zGBONNBequxfcIdOiO39c33iLD5wqBEakizMGFaf4="
+          "Value": "sha256-KW3fNSyyzoajRtMCtUcuL1vpmd1RAEWSPryubOYOl3A="
         }
       ]
     },
@@ -44225,7 +44225,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44280,7 +44280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44333,7 +44333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44370,7 +44370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44415,7 +44415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44462,7 +44462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44525,7 +44525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44586,7 +44586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44631,7 +44631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44684,7 +44684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 04:01:45 GMT"
+          "Value": "Fri, 16 May 2025 04:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
